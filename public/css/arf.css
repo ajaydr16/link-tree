@@ -4,10 +4,10 @@ body {
   font-family: "Helvetica Neue", Helvetica;
 }
 
-#body {
+body {
   margin: 0 auto;
   position: relative;
-  background: url(https://img.freepik.com/free-vector/geometric-banner-with-connecting-lines-dots-design_1048-12490.jpg?size=626&ext=jpg);
+  background: url("../img/bg5.png");
   background-size: cover;
   z-index: -1;
   background-repeat: no-repeat;
